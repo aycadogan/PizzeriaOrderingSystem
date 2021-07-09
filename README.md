@@ -1,5 +1,5 @@
 # Pizzeria Ordering System
-I built a Pizzeria Restaurant on Java. It is console based.
+I built a Pizzeria Restaurant on Java Console without any database.
 
 ====== PIZZERIA ========
 1. Margherita		  $18.0
